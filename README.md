@@ -1,2 +1,2 @@
 # test
-just for testing new pc
+just for testing a new pc
